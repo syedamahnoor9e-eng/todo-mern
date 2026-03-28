@@ -28,6 +28,15 @@ This application allows users to manage tasks efficiently with authentication an
 
 ---
 
+### ✅ Demo Admin Access
+
+Email: ahmed@gmail.com
+Password: Pk@1234567
+
+This is a demo account provided for testing admin features.
+
+---
+
 ## 🛠️ Tech Stack
 
 ### Frontend:
