@@ -49,7 +49,6 @@ const Sidebar = ({ role }) => {
         <nav className="flex-1 space-y-1">
           <p className="text-[10px] font-black text-slate-500 uppercase tracking-widest mb-4 ml-4">Main Menu</p>
           <NavLink to="/dashboard" className={navLinkClass} onClick={() => setIsOpen(false)}>
-            <span className="text-lg">📊</span>
             Dashboard
           </NavLink>
 
@@ -57,7 +56,6 @@ const Sidebar = ({ role }) => {
             <>
               <p className="text-[10px] font-black text-slate-500 uppercase tracking-widest mt-8 mb-4 ml-4">Admin Only</p>
               <NavLink to="/admin" className={navLinkClass} onClick={() => setIsOpen(false)}>
-                <span className="text-lg">🛡️</span>
                 User Management
               </NavLink>
             </>

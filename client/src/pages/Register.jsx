@@ -107,7 +107,7 @@ const Register = () => {
   };
 
   return (
-    <div className="min-h-screen flex justify-center items-center bg-slate-50 px-4 py-8">
+    <div className="min-h-screen flex justify-center items-center bg-[#1e1447] px-4 py-8">
 
       {/* Responsive Card:
       - p-6 on mobile (small)
